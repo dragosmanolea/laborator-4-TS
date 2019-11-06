@@ -1,5 +1,5 @@
-# laborator-4-TS
+# laborator-TS
 
-Laborator 4 Teoria Sistemelor
+Laborator Teoria Sistemelor
 
 what am i doing here?
